@@ -1,3 +1,5 @@
 __pycache__/
 HMDB51/
 HMDB51-OpticalFlow.pth
+Stanford40/
+HMDB51-Frames.pth
